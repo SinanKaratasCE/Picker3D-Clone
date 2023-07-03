@@ -3,7 +3,7 @@ Original of the game : [Google Play Link](https://play.google.com/store/apps/det
 ## About
 - Collect objects on the way and throw them into containers.
 
-![Picker3D-Gameplay-Gif](https://github.com/SinanKaratasCE/Picker3D-Clone/assets/130935850/e0627b9d-6e89-453e-985f-bdf60e9c1a3a)
+  ![Picker3D-Gameplay-Gif](https://github.com/SinanKaratasCE/Picker3D-Clone/assets/130935850/4b6a249f-9dfd-4364-be00-d2a564f1b147)
 ## Level Editor
 - Levels can create and edit easily
 
